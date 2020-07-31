@@ -1,6 +1,6 @@
 # GameGakJelasV.2
 
-![Chicken Dinner](https://png.pngtree.com/element_our/png_detail/20180920/winner-chicken-dinner-badge-pubg-game-png_110428.jpg)
+![Steam Production](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4TE1Qmx7fDyHMST4dPObr7-CQcdSm1VU-pQ&usqp=CAU)
 
 >> Look The Game In Realase
 

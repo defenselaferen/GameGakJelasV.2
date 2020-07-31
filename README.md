@@ -17,3 +17,11 @@
 > Build Unity skills faster and easier than ever
 
 > Whether you’re a beginner or expert, professional or student, here you’ll find all the resources you need for your Unity learning journey.
+
+##Everything you need to succeed
+> Unity is so much more than the world’s best real-time development platform – it’s also a robust ecosystem designed to enable your success. Join our dynamic community of creators > so you can tap into what you need to achieve your vision.
+
+> Read our blog
+
+#Together, we empower real-time creativity around the world
+Join the global team behind the world’s most powerful real-time development platform.

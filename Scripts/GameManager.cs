@@ -9,10 +9,12 @@ public class GameManager : MonoBehaviour {
 	public float waitDelay = 2f;
 
 	public GameObject completeLevelUI;
+	public GameObject DieLevelUI;
 
 	public void CompleteLevel()
 	{
 		completeLevelUI.SetActive(true);
+		DieLevelUI.SetActive(false);
 	}
 
 	public void EndGame()

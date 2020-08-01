@@ -11,20 +11,25 @@ public class PlayerMovement : MonoBehaviour {
 	public float speed = 3000f;
 	public float Jump = 900f;
 	private bool IsJump = false;
+
+	public Animator animatior;
 	
 	void Update ()
 	{
 		if(Input.GetKey("a"))
 		{
 			Rb.AddForce(0, 0, -speed * Time.deltaTime);
+			animatior.SetInteger("IsRun", 1);
 		}
 		if(Input.GetKey("d"))
 		{ 
 			Rb.AddForce(0, 0, speed * Time.deltaTime);
+			animatior.SetInteger("IsRun", 1);
 		}
 		if(Input.GetButtonDown("Jump") && IsJump == false)
 		{
 			Rb.AddForce(new Vector3(0, Jump));
+			FindObjectOfType<AudioManager>().Play("PlayerJump");
 			IsJump = true;
 		}
 
@@ -32,6 +37,7 @@ public class PlayerMovement : MonoBehaviour {
 		{
 			FindObjectOfType<GameManager>().EndGame();
 		}
+		animatior.SetInteger("IsRun", 0);
 	}
 
 	void OnCollisionEnter (Collision other)

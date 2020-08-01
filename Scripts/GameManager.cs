@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour {
 	{
 		completeLevelUI.SetActive(true);
 		DieLevelUI.SetActive(false);
+		Invoke("ContinuedLevel", waitDelay);
 	}
 
 	public void EndGame()
@@ -24,6 +25,11 @@ public class GameManager : MonoBehaviour {
 			gameEnd = true;
 			Invoke("Restart", waitDelay);
 		}
+	}
+
+	void ContinuedLevel()
+	{
+		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 	}
 
 	void Restart()

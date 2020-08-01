@@ -26,25 +26,25 @@
 # Together, we empower real-time creativity around the world
 Join the global team behind the world’s most powerful real-time development platform.
 
-![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
-1[.net](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png)
+> ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
+ > [.net](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png)
 
 The correct title of this article is C# (programming language). The substitution of the # is due to technical restrictions.
-C#
-C Sharp logo.svg
-Paradigm	Structured, imperative, object-oriented, event-driven, task-driven, functional, generic, reflective, concurrent
-Family	C
-Designed by	Microsoft
-Developer	Microsoft
-First appeared	2000; 20 years ago[1]
-Stable release	
-8.0[2] / September 23, 2019; 10 months ago
-Preview release	
-9.0 / May 20, 2020; 2 months ago [3]
-Typing discipline	Static, dynamic,[4] strong, safe, nominative, partially inferred
-Platform	Common Language Infrastructure
-License	
-Roslyn compiler: MIT/X11[5]
+> C#
+> C Sharp logo.svg
+> Paradigm	Structured, imperative, object-oriented, event-driven, task-driven, functional, generic, reflective, concurrent
+> Family	C
+> Designed by	Microsoft
+> Developer	Microsoft
+? First appeared	2000; 20 years ago[1]
+> Stable release	
+> 8.0[2] / September 23, 2019; 10 months ago
+> Preview release	
+> 9.0 / May 20, 2020; 2 months ago [3]
+> Typing discipline	Static, dynamic,[4] strong, safe, nominative, partially inferred
+> Platform	Common Language Infrastructure
+> License	
+> Roslyn compiler: MIT/X11[5]
 .NET Core CLR: MIT/X11[6]
 Mono compiler: dual GPLv3 and MIT/X11
 DotGNU: dual GPL and LGPL

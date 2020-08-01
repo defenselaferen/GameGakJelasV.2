@@ -27,7 +27,7 @@
 Join the global team behind the world’s most powerful real-time development platform.
 
 > ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
- > [.net](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png)
+ > ![net](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png)
 
 The correct title of this article is C# (programming language). The substitution of the # is due to technical restrictions.
 > C#

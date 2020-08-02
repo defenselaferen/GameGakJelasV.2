@@ -71,7 +71,7 @@ public class LevelOptionScript : MonoBehaviour {
 	}
 	public void Level17()
 	{
-		SceneManager.LoadScene("Level17");
+		SceneManager.LoadScene("level17");
 	}
 	public void Level18()
 	{
@@ -84,5 +84,9 @@ public class LevelOptionScript : MonoBehaviour {
 	public void Level20()
 	{
 		SceneManager.LoadScene("Level20");
+	}
+	public void BackLobby()
+	{
+		SceneManager.LoadScene("lobby");
 	}
 }

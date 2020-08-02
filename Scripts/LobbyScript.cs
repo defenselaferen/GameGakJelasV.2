@@ -15,6 +15,6 @@ public class LobbyScript : MonoBehaviour {
 	}
 	public void LevelOption()
 	{
-		
+		SceneManager.LoadScene("LevelOptions");
 	}
 }
